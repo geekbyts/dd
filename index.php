@@ -5,6 +5,9 @@
 ?>
 <!doctype html>
 <html lang="en">
+	 <head>
+        <script data-ad-client="ca-pub-4455231867863882" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    </head>
 <?php ?>
     <body>
         
